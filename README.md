@@ -3,7 +3,7 @@ a 3d printed case for the sprig you can print yourself!
 
 
 # Printing
-In most use cases you will want to head to makerworld and directly print it with all presets already chosen but you can also download the 3mf files and download from that.
+In most use cases you will want to head to makerworld and directly print it [here](https://github.com/DragonRoyal/sprig_case) with all presets already chosen but you can also download the 3mf files and download from that.
 **Supports should be enabled**.
 
 # Assembly
